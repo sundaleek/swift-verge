@@ -1,6 +1,6 @@
 {
   "name": "Verge2",
-  "version": "8.19.0",
+  "version": "12.3.0",
   "summary": "Verge is a state management tools",
   "description": "Verge is a state management tools (Store, ViewModel, ORM, Reactive) on iOS App (UIKit / SwiftUI)",
   "license": "MIT",
